@@ -1,0 +1,6 @@
+{
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "notebook.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
